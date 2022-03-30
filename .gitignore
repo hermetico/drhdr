@@ -1,4 +1,5 @@
-checkpoints/**
+/checkpoints/**
+!**/.gitkeep
 .vscode/
 venv/
 *.tar.gz
