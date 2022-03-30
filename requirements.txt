@@ -1,0 +1,16 @@
+imageio==2.9.0
+matplotlib==3.3.3
+scikit-image==0.16.2
+easydict==1.9
+torch==1.11.0
+torchaudio==0.11.0+cu113
+Pillow
+opencv-python>=4.0,<5.0
+tensorboardX==2.1
+tensorboard
+future
+lmdb
+pyarrow
+thop
+tqdm
+torchinfo

@@ -1,0 +1,7 @@
+checkpoints/**
+.vscode/
+venv/
+*.tar.gz
+*.zip
+*.pkl
+*.pyc
