@@ -30,3 +30,7 @@ To compute only the metrics run:
 ```
 sh launch-metrics.sh
 ```
+
+## Acknowledgment
+Part of our code is adapted from [AHDRNet](https://arxiv.org/abs/1904.10293), [EDVR](https://arxiv.org/abs/1905.02716) and  [ADNET](https://arxiv.org/abs/2105.10697). We thank the authors for their contributions and for sharing their code publicly.
+
