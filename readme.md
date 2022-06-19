@@ -1,4 +1,6 @@
 # DRHDR
+### DRHDR: A Dual branch Residual Network for Multi-Bracket High Dynamic Range Imaging
+[arXiv](https://arxiv.org/abs/2206.04124)
 
 ## Setup
 
